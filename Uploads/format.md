@@ -12,7 +12,7 @@
 
 **Text formatting:** Here are some basic text formatting methods.
 > Bold: 
-  ```**text**```
+  ```**text**```\
 > Italics: ```_text_```
 
 **Embedding an image:** Drag your image into the box on [this](https://github.com/WR808/Engineering-Notebook/upload/master/Uploads) page. Once it's uploaded, find the file you uploaded [here](https://github.com/WR808/Engineering-Notebook/tree/master/Uploads), then click on it. You should see a preview of the file. On that preview, right click and select ```Open Image in New Tab```. The URL of the page that opens should begin with ```raw.githubusercontent.com```. Copy the **full** address to your clipboard.
