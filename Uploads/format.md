@@ -5,19 +5,12 @@
 
 **Title:** mm/dd/yyyy
 > Example: 10/06/2018
-<br>
-<br>
+
 **Content:** You can copy and paste the content from a previous entry such as [this](https://raw.githubusercontent.com/WR808/Engineering-Notebook/master/Notebook/10.6.18.md) one) and simply change the information to fit the day's entry.
-<br>
-<br>
+
 **Why use Markdown?:** Markdown allows us to store all of our notebook entries in a place where every member of the team can access them and make changes, if necessary. Also, it's what Mr. Sullivan told us to use. Additionally, Markdown plays really nicely with Google Docs and Microsoft Word, so it'll be easy for us to migrate our notebook into one of these softwares when the time comes for printing.
-<br>
-<br>
+
 **Text formatting:** Here are some basic text formatting methods.
-<br>
-> New line:
-  ```<br>```
-<br>
 > Bold: 
   ```**text**```
 <br>
