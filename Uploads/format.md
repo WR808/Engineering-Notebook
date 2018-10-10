@@ -1,11 +1,9 @@
 ## Format for Engineering Notebook Entries
 
 **Filename:** mm/dd/yy.md
-<br>
 > Example: 10/06/18.md
-<br>
+
 **Title:** mm/dd/yyyy
-<br>
 > Example: 10/06/2018
 <br>
 <br>
