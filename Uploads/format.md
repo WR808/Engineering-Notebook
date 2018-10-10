@@ -19,7 +19,7 @@
 
 Then, go to the file that you want to insert the image into. Paste the following code where you wish to have the image in your entry. ```<img src="url">``` Replace ```url``` with the URL you copied. 
 
-**Managing Dimensions: **If the image appears too large or small, you can modify the dimensions by using this code instead. ```<img src="url" width="x%" height="y%">``` Again, replace URL with the URL that you copied. Replace ```x``` and ```y``` with percentages relative to the original image's dimensions.<br>
+**Managing Dimensions:** If the image appears too large or small, you can modify the dimensions by using this code instead. ```<img src="url" width="x%" height="y%">``` Again, replace URL with the URL that you copied. Replace ```x``` and ```y``` with percentages relative to the original image's dimensions.
 
 > End Result Example:
 
